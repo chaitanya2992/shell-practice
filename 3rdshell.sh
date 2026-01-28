@@ -1,0 +1,7 @@
+echo "$0"
+echo "$pwd"
+echo "$user"
+echo "$#"
+echo "$*"
+echo "$!"
+echo "$@"
